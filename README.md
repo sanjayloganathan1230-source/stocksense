@@ -2,7 +2,12 @@
 
 StockSense is a final-year project that visualizes live Indian stock-market data through a modern dashboard built with React, FastAPI, PostgreSQL, and Python-based analytics tooling.
 
+<img width="1536" height="1024" alt="StockSense Indian Market Dashboard" src="https://github.com/user-attachments/assets/1b08caf3-1119-4535-a102-5484a481d68f" />
+
+
 ## Project purpose
+
+<img width="1536" height="1024" alt="Reliance Industries Stock Dashboard" src="https://github.com/user-attachments/assets/220794d3-649c-4a05-ba4f-409f63579bac" />
 
 The goal of StockSense is to provide a professional, responsive dashboard for:
 
@@ -13,6 +18,9 @@ The goal of StockSense is to provide a professional, responsive dashboard for:
 - basic analytics and AI/ML learning workflows
 
 This project is designed as a scalable platform. The current stage focuses on architecture, environment setup, and a working backend/frontend connection test.
+
+<img width="1536" height="1024" alt="StockSense Dark Finance Watchlist Dashboard" src="https://github.com/user-attachments/assets/fc0c68a5-aaf4-47a2-b51e-5c54c7760161" />
+
 
 ## Technology stack
 
@@ -34,6 +42,9 @@ Frontend
 → Market Data API
 
 This keeps the app provider-neutral. Select `demo` for local synthetic datasets or `upstox` for provider data; React uses the same backend contract for either mode.
+
+<img width="1536" height="1024" alt="Neon Dark Finance Portfolio Dashboard" src="https://github.com/user-attachments/assets/42a6b0f4-31c3-4e94-9e0b-4a48400e3f93" />
+
 
 ## System architecture
 
@@ -97,6 +108,9 @@ The project now includes provider-backed market endpoints:
 - GET /api/market/activity
 
 If the provider is not configured, each endpoint returns a clear explanation that configuration is required.
+
+<img width="1536" height="1024" alt="StockSense Market News Dashboard" src="https://github.com/user-attachments/assets/82eb5071-5545-4985-92d7-e87410294057" />
+
 
 ## Folder structure
 
